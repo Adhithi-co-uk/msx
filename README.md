@@ -6,7 +6,7 @@ If you have installed Media Station X APP in your Samsung TV then need to genera
 Roadmap
 ========
 
-I have planned to add more features like assigning custom thumbnails to videos also using different templating option provided by Media Station X app.
+I have planned to add more features like assigning custom thumbnails to videos also using different templating option provided by Media Station X app on the website http://msx.benzac.de/info/?tab=Showcases.
 
 Contributions
 =============
